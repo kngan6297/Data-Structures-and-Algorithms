@@ -1,0 +1,15 @@
+D:\VTC Academy\Data Structures and Algorithms\DSA_Lab01_Exercise1\bin\Debug\net6.0\DSA_Lab01_Exercise1.exe
+D:\VTC Academy\Data Structures and Algorithms\DSA_Lab01_Exercise1\bin\Debug\net6.0\DSA_Lab01_Exercise1.deps.json
+D:\VTC Academy\Data Structures and Algorithms\DSA_Lab01_Exercise1\bin\Debug\net6.0\DSA_Lab01_Exercise1.runtimeconfig.json
+D:\VTC Academy\Data Structures and Algorithms\DSA_Lab01_Exercise1\bin\Debug\net6.0\DSA_Lab01_Exercise1.dll
+D:\VTC Academy\Data Structures and Algorithms\DSA_Lab01_Exercise1\bin\Debug\net6.0\DSA_Lab01_Exercise1.pdb
+D:\VTC Academy\Data Structures and Algorithms\DSA_Lab01_Exercise1\obj\Debug\net6.0\DSA_Lab01_Exercise1.csproj.AssemblyReference.cache
+D:\VTC Academy\Data Structures and Algorithms\DSA_Lab01_Exercise1\obj\Debug\net6.0\DSA_Lab01_Exercise1.GeneratedMSBuildEditorConfig.editorconfig
+D:\VTC Academy\Data Structures and Algorithms\DSA_Lab01_Exercise1\obj\Debug\net6.0\DSA_Lab01_Exercise1.AssemblyInfoInputs.cache
+D:\VTC Academy\Data Structures and Algorithms\DSA_Lab01_Exercise1\obj\Debug\net6.0\DSA_Lab01_Exercise1.AssemblyInfo.cs
+D:\VTC Academy\Data Structures and Algorithms\DSA_Lab01_Exercise1\obj\Debug\net6.0\DSA_Lab01_Exercise1.csproj.CoreCompileInputs.cache
+D:\VTC Academy\Data Structures and Algorithms\DSA_Lab01_Exercise1\obj\Debug\net6.0\DSA_Lab01_Exercise1.dll
+D:\VTC Academy\Data Structures and Algorithms\DSA_Lab01_Exercise1\obj\Debug\net6.0\refint\DSA_Lab01_Exercise1.dll
+D:\VTC Academy\Data Structures and Algorithms\DSA_Lab01_Exercise1\obj\Debug\net6.0\DSA_Lab01_Exercise1.pdb
+D:\VTC Academy\Data Structures and Algorithms\DSA_Lab01_Exercise1\obj\Debug\net6.0\DSA_Lab01_Exercise1.genruntimeconfig.cache
+D:\VTC Academy\Data Structures and Algorithms\DSA_Lab01_Exercise1\obj\Debug\net6.0\ref\DSA_Lab01_Exercise1.dll

@@ -1,0 +1,15 @@
+D:\VTC Academy\Data Structures and Algorithms\DSA_K21PF05\bin\Debug\net6.0\DSA_K21PF05.exe
+D:\VTC Academy\Data Structures and Algorithms\DSA_K21PF05\bin\Debug\net6.0\DSA_K21PF05.deps.json
+D:\VTC Academy\Data Structures and Algorithms\DSA_K21PF05\bin\Debug\net6.0\DSA_K21PF05.runtimeconfig.json
+D:\VTC Academy\Data Structures and Algorithms\DSA_K21PF05\bin\Debug\net6.0\DSA_K21PF05.dll
+D:\VTC Academy\Data Structures and Algorithms\DSA_K21PF05\bin\Debug\net6.0\DSA_K21PF05.pdb
+D:\VTC Academy\Data Structures and Algorithms\DSA_K21PF05\obj\Debug\net6.0\DSA_K21PF05.csproj.AssemblyReference.cache
+D:\VTC Academy\Data Structures and Algorithms\DSA_K21PF05\obj\Debug\net6.0\DSA_K21PF05.GeneratedMSBuildEditorConfig.editorconfig
+D:\VTC Academy\Data Structures and Algorithms\DSA_K21PF05\obj\Debug\net6.0\DSA_K21PF05.AssemblyInfoInputs.cache
+D:\VTC Academy\Data Structures and Algorithms\DSA_K21PF05\obj\Debug\net6.0\DSA_K21PF05.AssemblyInfo.cs
+D:\VTC Academy\Data Structures and Algorithms\DSA_K21PF05\obj\Debug\net6.0\DSA_K21PF05.csproj.CoreCompileInputs.cache
+D:\VTC Academy\Data Structures and Algorithms\DSA_K21PF05\obj\Debug\net6.0\DSA_K21PF05.dll
+D:\VTC Academy\Data Structures and Algorithms\DSA_K21PF05\obj\Debug\net6.0\refint\DSA_K21PF05.dll
+D:\VTC Academy\Data Structures and Algorithms\DSA_K21PF05\obj\Debug\net6.0\DSA_K21PF05.pdb
+D:\VTC Academy\Data Structures and Algorithms\DSA_K21PF05\obj\Debug\net6.0\DSA_K21PF05.genruntimeconfig.cache
+D:\VTC Academy\Data Structures and Algorithms\DSA_K21PF05\obj\Debug\net6.0\ref\DSA_K21PF05.dll

@@ -1,0 +1,15 @@
+D:\VTC Academy\Data Structures and Algorithms\DSLK\obj\Debug\net6.0\DSLK.csproj.AssemblyReference.cache
+D:\VTC Academy\Data Structures and Algorithms\DSLK\obj\Debug\net6.0\DSLK.GeneratedMSBuildEditorConfig.editorconfig
+D:\VTC Academy\Data Structures and Algorithms\DSLK\obj\Debug\net6.0\DSLK.AssemblyInfoInputs.cache
+D:\VTC Academy\Data Structures and Algorithms\DSLK\obj\Debug\net6.0\DSLK.AssemblyInfo.cs
+D:\VTC Academy\Data Structures and Algorithms\DSLK\obj\Debug\net6.0\DSLK.csproj.CoreCompileInputs.cache
+D:\VTC Academy\Data Structures and Algorithms\DSLK\bin\Debug\net6.0\DSLK.exe
+D:\VTC Academy\Data Structures and Algorithms\DSLK\bin\Debug\net6.0\DSLK.deps.json
+D:\VTC Academy\Data Structures and Algorithms\DSLK\bin\Debug\net6.0\DSLK.runtimeconfig.json
+D:\VTC Academy\Data Structures and Algorithms\DSLK\bin\Debug\net6.0\DSLK.dll
+D:\VTC Academy\Data Structures and Algorithms\DSLK\bin\Debug\net6.0\DSLK.pdb
+D:\VTC Academy\Data Structures and Algorithms\DSLK\obj\Debug\net6.0\DSLK.dll
+D:\VTC Academy\Data Structures and Algorithms\DSLK\obj\Debug\net6.0\refint\DSLK.dll
+D:\VTC Academy\Data Structures and Algorithms\DSLK\obj\Debug\net6.0\DSLK.pdb
+D:\VTC Academy\Data Structures and Algorithms\DSLK\obj\Debug\net6.0\DSLK.genruntimeconfig.cache
+D:\VTC Academy\Data Structures and Algorithms\DSLK\obj\Debug\net6.0\ref\DSLK.dll
